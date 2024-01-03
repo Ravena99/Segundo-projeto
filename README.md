@@ -10,10 +10,10 @@ repositório paraa armazenar  resumos sobre Git e GitHub do curso versionamento 
 
 | aulas | Resumos  |
 |-------|---------|
-| Gravando Alterações no repositório local | [Resumos]() |
+| Gravando Alterações no repositório local | [Resumos]()         |
 
 ```
-git init
+## git init
 ```
 ##🔎 referências
 -[Digital Innovation One]().
